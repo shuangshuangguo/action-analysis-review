@@ -26,7 +26,7 @@
   - Co-occurrence Feature Learning from Skeleton Data for Action Recognition and Detection with Hierarchical Aggregation  [paper](https://arxiv.org/pdf/1804.06055.pdf)
   - Spatial Temporal Graph Convolutional Networks for Skeleton-Based Action Recognition  [paper](https://arxiv.org/pdf/1801.07455.pdf)  [code](https://github.com/yysijie/st-gcn)
 - Others
-  - ActionVLAD: Learning spatio-temporal aggregation for action classification [pdf](https://arxiv.org/pdf/1704.02895.pdf)   [code](https://github.com/rohitgirdhar/ActionVLAD)
+  - ActionVLAD: Learning spatio-temporal aggregation for action classification [paper](https://arxiv.org/pdf/1704.02895.pdf)   [code](https://github.com/rohitgirdhar/ActionVLAD)
 
   - Appearance-and-Relation Networks for Video Classification  [paper](https://arxiv.org/pdf/1711.09125.pdf)  [code](https://github.com/wanglimin/ARTNet)  
   - ECO: Efficient Convolutional Network for Online Video Understanding [paper](https://arxiv.org/pdf/1804.09066.pdf) [code](https://github.com/mzolfaghari/ECO-efficient-video-understanding)
